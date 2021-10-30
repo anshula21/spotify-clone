@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/spotify-clone/static/css/main.e34bf14b.chunk.css",
+    "main.js": "/spotify-clone/static/js/main.60d07878.chunk.js",
+    "main.js.map": "/spotify-clone/static/js/main.60d07878.chunk.js.map",
+    "runtime-main.js": "/spotify-clone/static/js/runtime-main.e048ac36.js",
+    "runtime-main.js.map": "/spotify-clone/static/js/runtime-main.e048ac36.js.map",
+    "static/js/2.b24e9065.chunk.js": "/spotify-clone/static/js/2.b24e9065.chunk.js",
+    "static/js/2.b24e9065.chunk.js.map": "/spotify-clone/static/js/2.b24e9065.chunk.js.map",
+    "static/js/3.132f49b5.chunk.js": "/spotify-clone/static/js/3.132f49b5.chunk.js",
+    "static/js/3.132f49b5.chunk.js.map": "/spotify-clone/static/js/3.132f49b5.chunk.js.map",
+    "index.html": "/spotify-clone/index.html",
+    "static/css/main.e34bf14b.chunk.css.map": "/spotify-clone/static/css/main.e34bf14b.chunk.css.map",
+    "static/js/2.b24e9065.chunk.js.LICENSE.txt": "/spotify-clone/static/js/2.b24e9065.chunk.js.LICENSE.txt",
+    "static/media/Baby.7ad71eac.mp3": "/spotify-clone/static/media/Baby.7ad71eac.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e048ac36.js",
+    "static/js/2.b24e9065.chunk.js",
+    "static/css/main.e34bf14b.chunk.css",
+    "static/js/main.60d07878.chunk.js"
+  ]
+}
