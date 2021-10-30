@@ -2,7 +2,7 @@
   "name": "spotify-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anshula21/spotify-clone.git",
+  "homepage": "https://anshula21.github.io/spotify-clone",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
